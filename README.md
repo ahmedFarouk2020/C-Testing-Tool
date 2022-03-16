@@ -2,7 +2,7 @@
 A Simple testing tool for C programming language
 
 # Pre-requisite
-* GNU Compiler Collection **GCC
+* GNU Compiler Collection **GCC**
 
 # Advantages
 * Easy to use
@@ -10,8 +10,10 @@ A Simple testing tool for C programming language
 
 # How to get started
 ```sh
-> gcc -L ./lib -o test main.c -ltesting
-> ./test.exe
+# Configure the makefile depending on your project
+# Then
+> make
+> ./example.exe
 ```
 
 # See the example code

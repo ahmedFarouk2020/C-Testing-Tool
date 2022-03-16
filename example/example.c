@@ -1,7 +1,7 @@
 #include <string.h>
 #include <stdio.h>
 #include <stdlib.h>
-#include "lib/testing.h"
+#include "../lib/testing.h"
 
 /****** تحسينات
  * 1. اجعلها كمكتبة أى حولها لملفات رقمية

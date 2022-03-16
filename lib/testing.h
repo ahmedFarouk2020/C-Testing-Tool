@@ -31,7 +31,6 @@ void (*ptr) ();
 #define TEST_SIMPLE(expected, actual, testcase_name) 	char* text;\
 														sprintf(text, "%d", actual);\
 														test_str((#expected),text,(#testcase_name));
-
 */
 
 #define TEST_ADVANCED(expected, actual, testcase_name, return_type)  do{\

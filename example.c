@@ -3,6 +3,11 @@
 #include <stdlib.h>
 #include "lib/testing.h"
 
+/****** تحسينات
+ * 1. اجعلها كمكتبة أى حولها لملفات رقمية
+ * 2. طريقة أكثر أمانًا لضمان عدم حدوث أخطاء مع مترجمات أخرى
+ */
+
 
 /*
  * This code is for testing a simple function using C language 

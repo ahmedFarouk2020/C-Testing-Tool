@@ -17,5 +17,5 @@ A Simple testing tool for C programming language
 ```
 
 # See the example code
-![image](https://user-images.githubusercontent.com/61471002/158694161-94de548a-c708-48c1-98dd-37b0ecca6278.png)
+![image](https://user-images.githubusercontent.com/61471002/158890674-45e8298e-5fbf-464c-8e87-3f1b6b350528.png)
 
